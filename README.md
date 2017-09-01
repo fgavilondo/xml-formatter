@@ -16,8 +16,8 @@ The optional parameter "extensions" is the comma separated list of XML file exte
 
 Examples:
 
-   python xmlformatter.py myfile.xml 2
-   python xmlformatter.py myfile.xml 4
-   python xmlformatter.py /tmp/somedir 4
-   python xmlformatter.py /tmp/somedir 4 wsdl
-   python xmlformatter.py /tmp/somedir 4 xml,xsd,wsdl
+    python xmlformatter.py myfile.xml 2
+    python xmlformatter.py myfile.xml 4
+    python xmlformatter.py /tmp/somedir 4
+    python xmlformatter.py /tmp/somedir 4 wsdl
+    python xmlformatter.py /tmp/somedir 4 xml,xsd,wsdl
